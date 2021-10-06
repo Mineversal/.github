@@ -1,6 +1,6 @@
 # <img height="22" src="/images/mineversal.png"> Mineversal Open Source Project
 
-![Open Source Project Mineversal](/images/banner31.png)
+![Open Source Project Mineversal](/images/banner.png)
 
 ----
 
