@@ -1,3 +1,5 @@
+# <img height="22" src="/images/mineversal.png"> Mineversal Open Source Project
+
 ![Open Source Project Mineversal](/images/banner.png)
 
 ----
@@ -20,5 +22,3 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6285156633114)
 
 ----
-
-<b>Mineversal Open Source Project</b>
