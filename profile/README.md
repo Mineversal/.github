@@ -1,6 +1,6 @@
-# <img height="22" src="/images/mineversal.png"> Mineversal Open Source Project
+# <img height="22" src="https://github.com/mineversal/.github/blob/main/images/mineversal.png"> Mineversal Open Source Project
 
-![Open Source Project Mineversal](/images/banner.png)
+![​Open Source Project Mineversal](https://github.com/mineversal/.github/blob/main/images/banner.png) 
 
 ----
 
@@ -26,3 +26,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nzWXePCBrg)
 
 ----
+
+<!--
+# <img height="22" src="/images/mineversal.png"> Mineversal Open Source Project
+
+![Open Source Project Mineversal](/images/banner.png)
+--->
