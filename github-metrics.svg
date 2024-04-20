@@ -368,7 +368,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developers
-                                    <span class="gh">ranked 4.13m out of 133m users</span>
+                                    <span class="gh">ranked 4.13m out of 135m users</span>
                                 </div>
                                 <div class="text">Published 15 public repositories</div>
                             </div>
@@ -439,7 +439,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.25m out of 203m repositories</span>
+                                    <span class="gh">ranked 2.25m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -485,7 +485,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 5.22m out of 203m repositories</span>
+                                    <span class="gh">ranked 5.22m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -512,7 +512,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 20 Apr 2024, 16:49:50  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Apr 2024, 16:52:44  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
