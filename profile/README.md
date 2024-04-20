@@ -49,7 +49,7 @@
   </a>
 </div>
 
-<h1 align="center"># 📱 Contact Us 💻</h1>
+<h1 align="center">📱 Contact Us 💻</h1>
 <div align="center">
   <a href="https://m.me/mineversal" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Facebook Messenger"/>
