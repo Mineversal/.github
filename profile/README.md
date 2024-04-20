@@ -72,7 +72,7 @@
 ----
 
 <p align="center">
-  <a href="https://github.com/AzharRizkiZ/" target="_blank">
+  <a href="https://github.com/mineversal/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Mineversal&label=Profile%20views&style=flat-square" alt="Mineversal"/>
     <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Mineversaal"/>
     <img src="https://img.shields.io/github/followers/Mineversal?style=social" alt="GitHub followers"/>
