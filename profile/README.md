@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="50" src="https://github.com/mineversal/.github/blob/main/images/mineversal.png">
+  <!-- <img height="50" src="https://github.com/mineversal/.github/blob/main/images/mineversal.png"> -->
   <h1>🌌 Mineversal Open Source Project 🌠</h1>
   <img src="https://github.com/mineversal/.github/blob/main/images/banner.png" alt="Banner">
 </div>
