@@ -74,7 +74,7 @@
 <p align="center">
   <a href="https://github.com/mineversal/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Mineversal&label=Profile%20views&style=flat-square" alt="Mineversal"/>
-    <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Mineversaal"/>
+    <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Mineversal"/>
     <img src="https://img.shields.io/github/followers/Mineversal?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
     <img src="https://profile-counter.glitch.me/Mineversal/count.svg" height="20"/>
