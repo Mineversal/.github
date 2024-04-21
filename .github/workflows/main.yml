@@ -15,8 +15,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           user: Mineversal
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
