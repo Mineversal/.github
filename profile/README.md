@@ -6,12 +6,11 @@
 
 
 ----
-
 <h1 align="center">📈 Github Statistic 📊</h1>
 <div align="center">
   <img src="https://github.com/mineversal/.github/blob/main/github-metrics.svg" alt="Metrics">
+  <img src="https://github.com/mineversal/.github/blob/main/github-metrics-pagespeed.svg" alt="Metrics Pagespeed">
 </div>
-
 ----
 
 <h1 align="center">🛒 Download Our Application Here 📛</h1>
